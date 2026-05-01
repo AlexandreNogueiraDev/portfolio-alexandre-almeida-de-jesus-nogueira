@@ -41,7 +41,11 @@ Atualmente cursando o 1º período de Ciência da Computação na Unicid. Sou ap
 #### 🗃️ Fluxograma
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Semáforo para Cidades Inteligentes** |algoritmo de controle inteligente para semáforos urbanos, visando otimizar o fluxo de tráfego em "Cidades Inteligentes". O sistema ajusta dinamicamente o **Tempo de Espera (TE)** do sinal verde com base em sensores de presença de veículos, pedestres e no horário do dia.. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas) |
+| **Sistema de Semáforo para Cidades Inteligentes** |algoritmo de controle inteligente para semáforos urbanos, visando otimizar o fluxo de tráfego em "Cidades Inteligentes". O sistema ajusta dinamicamente o **Tempo de Espera (TE)** do sinal verde com base em sensores de presença de veículos, pedestres e no horário do dia. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de Caixa e Cálculo de Troco** |sistema de automação para pontos de venda (PDV), focado no registo de produtos, processamento de pagamentos e cálculo otimizado de troco. O sistema utiliza uma lógica de decomposição de valores para determinar a menor quantidade de notas necessárias para o troco. | [Ver Projeto](./projeto-sistema-de-caixa-e-troco) |
  
 ---
  
