@@ -40,7 +40,7 @@ Atualmente cursando o 1º período de Ciência da Computação na Unicid. Sou ap
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Coleção de Algoritmos: Traduzindo Lógica para Python** |Uma série de scripts desenvolvidos para exercitar a transição entre lógica de programação e a sintaxe da linguagem Python. Os algoritmos abordam problemas comuns do quotidiano, como gestão de vendas, análise climática, controlo académico e simulações financeiras. | [Ver Projeto](./projeto-traduzindo-logica-para-python) |
+| **Traduzindo Lógica para Python** |Uma série de scripts desenvolvidos para exercitar a transição entre lógica de programação e a sintaxe da linguagem Python. Os algoritmos abordam problemas comuns do quotidiano, como gestão de vendas, análise climática, controlo académico e simulações financeiras. | [Ver Projeto](./projeto-traduzindo-logica-para-python) |
 
 
 | Projeto | Descrição | Link |
