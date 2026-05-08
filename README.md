@@ -47,6 +47,8 @@ Atualmente cursando o 1º período de Ciência da Computação na Unicid. Sou ap
 | **Engenharia de Solucoes Logicas** |Um algoritmo de controle inteligente para semáforos urbanos, visando otimizar o fluxo de tráfego em "Cidades Inteligentes". O sistema ajusta dinamicamente o **Tempo de Espera (TE)** do sinal verde com base em sensores de presença de veículos, pedestres e no horário do dia. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas) |
 |  | |  |
 | **Sistema de Caixa e Cálculo de Troco** |Um sistema de automação para pontos de venda (PDV), focado no registo de produtos, processamento de pagamentos e cálculo otimizado de troco. O sistema utiliza uma lógica de decomposição de valores para determinar a menor quantidade de notas necessárias para o troco. | [Ver Projeto](./projeto-sistema-de-caixa-e-troco) |
+|  | |  |
+| **Sistema de Auditoria de Orçamentos Corporativos** |Um sistema de auditoria de orçamentos corporativos desenvolvido em Python, focado na análise de estruturas organizacionais hierárquicas representadas por dicionários aninhados. O sistema realiza o cálculo automatizado do orçamento total, permitindo a exclusão dinâmica de departamentos e a aplicação de conversão monetária em tempo de execução.| [Ver Projeto](./projeto_sistema_de_auditoria_de_recursos_coporativos) |
 ---
  
 ### 🏗 Estrutura do Repositório
